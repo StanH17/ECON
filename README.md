@@ -17,4 +17,4 @@ The _Stuff_ folder mainly includes problem sets carefully selected by the author
 
 ## FYI
 
-**This repository is for students and others wbo aim to study and review the course only. Any intention of commercial use should be prohibited.** The author of the repository welcomes you to give advice regarding optimization of the content, thanks. Feel free to star this project if you find it helpful. :)
+**This repository is for students and others who aim to study and review the course only. Any intention of commercial use should be prohibited.** The author of the repository welcomes you to give advice regarding optimization of the content, thanks. Feel free to star this project if you find it helpful. :)
